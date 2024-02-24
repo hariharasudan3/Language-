@@ -1,0 +1,90 @@
+
+Brief Input Design:
+User Choice for Language Codes:
+
+Prompt: "See language codes? (yes/no):"
+User Response: "yes" or "no".
+Text Input for Translation:
+
+Prompt: "Enter text to translate (type 'exit' to quit):"
+User Response: Text input or "exit".
+Target Language Input:
+
+Prompt: "Enter target language code (e.g., fr for French):"
+User Response: Target language code
+
+
+
+
+
+
+
+
+Brief Input Design:
+User Choice for Language Codes:
+
+Prompt: "See language codes? (yes/no):"
+User Response: "yes" or "no".
+Text Input for Translation:
+
+Prompt: "Enter text to translate (type 'exit' to quit):"
+User Response: Text input or "exit".
+Target Language Input:
+
+Prompt: "Enter target language code (e.g., fr for French):"
+User Response: Target language code.
+Brief Output Design:
+Display Supported Language Codes:
+
+Output: List of supported languages and their codes.
+Show Detected Language:
+
+Output: Display detected language.
+Show Translated Text:
+
+Output: Display translated text.
+Prompt for Next Step:
+
+Output: Prompt for the next input or confirmation.
+Exit Message:
+
+Output: Message indicating program exit.
+
+
+
+
+
+
+
+EXAMPLE
+
+
+Brief Input Design:
+User Choice for Language Codes:
+
+Prompt: "See language codes? (yes/no):"
+User Response: "yes" or "no".
+Text Input for Translation:
+
+Prompt: "Enter text to translate (type 'exit' to quit):"
+User Response: Text input or "exit".
+Target Language Input:
+
+Prompt: "Enter target language code (e.g., fr for French):"
+User Response: Target language code.
+Brief Output Design:
+Display Supported Language Codes:
+
+Output: List of supported languages and their codes.
+Show Detected Language:
+
+Output: Display detected language.
+Show Translated Text:
+
+Output: Display translated text.
+Prompt for Next Step:
+
+Output: Prompt for the next input or confirmation.
+Exit Message:
+
+Output: Message indicating program exit.
